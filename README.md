@@ -1,7 +1,7 @@
 
 Unlike normal Drawers we mostly use, Twitter uses a different approach for the drawer in IOS, which we can't obtain via the drawer flutter provides.
 
-We have to use Stack and AnimatedBuilder to build such a drawer.
+Thus, we have to use Stack and AnimatedBuilder to build such a drawer.
 
 ![Image](https://user-images.githubusercontent.com/79410189/128628419-4611338d-36f2-40a6-9544-ec8e12dae400.png)
 
